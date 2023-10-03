@@ -1,2 +1,2 @@
-# PrepCourseHenry_Readme
-Este es un repositorio correspondiente al PrepCourse de Henry
+Oscar Maidana
+Este es un repositorio correspondiente al PrepCourse de Henry clonado desde GitHub a mi computadora 
